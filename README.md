@@ -11,5 +11,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=shivamsoni-iiitn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shivamsoni-iiitn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamsoni-iiitn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamsoni-iiitn/shivamsoni-iiitn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
